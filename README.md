@@ -32,17 +32,17 @@ If you prefer, you can install the `.whl` file directly from the release URL. Ch
 
 Python 3.11:
 
-```bash
+```
 pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/dlib-20.0.0-cp311-cp311-linux_x86_64.whl
 ```
 Python 3.12:
 
-```bash
+```
 pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/dlib-20.0.0-cp312-cp312-linux_x86_64.whl
 ```
 Python 3.13:
 
-```bash
+```
 pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/dlib-20.0.0-cp313-cp313-linux_x86_64.whl
 ```
 If you encounter any issues or need further assistance, feel free to open an issue or contact me!
