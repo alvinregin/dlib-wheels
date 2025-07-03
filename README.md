@@ -1,6 +1,6 @@
 # dlib-wheels
 
-This repository hosts precompiled [dlib](http://dlib.net) Linux `.whl` files for Python 3.11–3.13.
+This repository hosts precompiled [Dlib](http://dlib.net) Linux `.whl` files for Python 3.11–3.13.
 
 These wheels are built for `linux_x86_64` and are ready to be used with `pip install`.
 
