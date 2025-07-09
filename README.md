@@ -38,11 +38,11 @@ pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/
 Python 3.12:
 
 ```dockerfile
-pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/dlib-20.0.0-cp312-cp312-linux_x86_64.whl
+RUN pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/dlib-20.0.0-cp312-cp312-linux_x86_64.whl
 ```
 Python 3.13:
 
-```powershell
+```nginx
 pip install https://github.com/alvinregin/dlib-wheels/releases/download/v20.0.0/dlib-20.0.0-cp313-cp313-linux_x86_64.whl
 ```
 If you encounter any issues or need further assistance, feel free to open an issue or contact me!
